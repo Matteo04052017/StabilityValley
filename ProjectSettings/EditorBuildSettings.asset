@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: d33e209671e4b8a4ba8add32dc4ae146
+  - enabled: 1
+    path: Assets/Scenes/SlowProcess_blender_ext1.unity
+    guid: e5f70347776cbc246be3e6b29c1e53fe
+  - enabled: 1
+    path: Assets/Scenes/FastProcess_blender_ext1.unity
+    guid: 28e5540491b76684da4589c0cc44da42
+  m_configObjects: {}
